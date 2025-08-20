@@ -1,19 +1,19 @@
 # Happy Cat - An Educational Idle Game <br> [For - Windows PC](https://payhip.com/b/Ed2us)
 
-**Happy Cat** is an educational idle game for **desktop** that's designed to **level up your coding skills! 😎** <br><br>
+**Happy Cat** is an educational **idle game** for **desktop** that's designed to **level up your coding skills! 😎** <br><br>
 It features an interactive **HTML5** game template that can be edited by **coders of all levels.**  This game has **officially been released** and is now available from [my shop!](https://payhip.com/b/Ed2us)<br>
 <br>
 
 **PLEASE READ**: <br>
-* If you have never heard of an **"idle  game"**, it is **strongly recommended**  that you watch [this overview](https://www.youtube.com/watch?v=IM6Gb10-DG4) of the genre in order to understand how to play.  The gameplay & goals for idle games are **sigficantly different** than most other gaming genres.
+* If you have never heard of an **"idle  game,"** it is **strongly recommended**  that you watch [this overview](https://www.youtube.com/watch?v=IM6Gb10-DG4) of the genre in order to understand how to play.  This is because the gameplay & goals for **idle games** are **sigficantly different** than most other gaming genres.
 <img width="843" height="515" alt="Screenshot 2025-08-20 114834" src="https://github.com/user-attachments/assets/1fa862ba-de8b-480e-8715-3a73bf36416d" />
 <br><br>
 
 ## Features
 
 *   **Educational Content:** Practice your **HTML5, CSS & JavaScript** skills while playing.
-*   **Idle Mechanics:** Progress and earn resources even when you're not actively playing.
-*   **Local Saving:** Your progress can be saved directly to your computer.
+*   **Idle Mechanics:** Progress and earn automated rewards.
+*   **Local Saving:** Your progress can be saved directly to your PC **until you delete your cookies.**
 *   **Simple Interface:** Easy-to-understand design.
 
 
