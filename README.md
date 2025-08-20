@@ -1,16 +1,16 @@
 # Educational Happy Cat Idle Game for Desktop!
 
-**Happy Cat** is an educational idle game for desktop that's designed to level up your coding skills!  It features an interactive **HTML5** game template that can be edited by coders of all levels.  This game has officially been relaized is now available for purchase!<br>
+**Happy Cat** is an educational idle game for **desktop** that's designed to level up your coding skills!  It features an interactive **HTML5** game template that can be edited by coders of all levels.  This game has officially been relaized is now available for purchase!<br>
 <br>
 <img width="843" height="515" alt="Screenshot 2025-08-20 114834" src="https://github.com/user-attachments/assets/1fa862ba-de8b-480e-8715-3a73bf36416d" />
 
 
 ## Features
 
-*   **Educational Content:** Practice your HTML5, CSS & JavaScript skills while playing.
+*   **Educational Content:** Practice your **HTML5, CSS & JavaScript** skills while playing.
 *   **Idle Mechanics:** Progress and earn resources even when you're not actively playing.
 *   **Local Saving:** Your progress is saved directly on your computer, no internet connection required after initial download.
-*   **Simple Interface:** Easy-to-understand design for all ages.
+*   **Simple Interface:** Easy-to-understand design.
 
 
 ## How to Play
@@ -34,8 +34,11 @@
 
 ## Technologies Used
 
-*   [Programming Language, e.g., Python]
-*   [Libraries/Frameworks used, e.g., Pygame, Tkinter]
+*   HTML5
+*   CSS
+*   JavaScript
+*   A.I.
+*   NotePad
 
 ## Contact
 
