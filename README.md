@@ -1,6 +1,7 @@
 # Educational Happy Cat Idle Game for Desktop!
 
-An engaging and educational idle game designed to teach [mention key learning area, e.g., basic programming concepts, resource management, historical facts] through interactive gameplay.
+**Happy Cat** is an engaging and educational idle game that is designed to teach coding skills.  It features an interactive idle game template that can be edited by coders of all skill levels!  
+<br>
 <img width="843" height="515" alt="Screenshot 2025-08-20 114834" src="https://github.com/user-attachments/assets/1fa862ba-de8b-480e-8715-3a73bf36416d" />
 
 
