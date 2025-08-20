@@ -1,10 +1,13 @@
 # Happy Cat - An Educational Idle Game <br> [For - Windows PC](https://payhip.com/b/Ed2us)
 
-**Happy Cat** is an educational idle game for **desktop** that's designed to **level up your coding skills! 😎** <br><br>
+**Happy Cat** is an educational idle game for **desktop** that's designed to **level up your coding skills! 😎** <br><br>  
 It features an interactive **HTML5** game template that can be edited by **coders of all levels.**  This game has **officially been released** and is now available from [my shop!](https://payhip.com/b/Ed2us)<br>
 <br>
+<br>
+**PLEASE READ**: <br>
+* If you have never heard of an **"idle  game"**, it is **strongly recommended**  that you watch [this overview](https://www.youtube.com/watch?v=IM6Gb10-DG4) of the genre in order to understand how to play.  The gameplay & goals for idle games are **sigficantly different** than most other gaming genres.
 <img width="843" height="515" alt="Screenshot 2025-08-20 114834" src="https://github.com/user-attachments/assets/1fa862ba-de8b-480e-8715-3a73bf36416d" />
-
+<br><br>
 
 ## Features
 
@@ -14,7 +17,7 @@ It features an interactive **HTML5** game template that can be edited by **coder
 *   **Simple Interface:** Easy-to-understand design.
 
 
-## How to Play
+## How to Use
 
 * **1.**  Purchase **Happy Cat** from [my shop](https://payhip.com/b/Ed2us) & download the **HTML** file.<br><br><img width="353" height="299" alt="Screenshot 2025-08-20 125811" src="https://github.com/user-attachments/assets/c97159e4-5324-4b0d-b94d-eba549515562" />
 
