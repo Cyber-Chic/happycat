@@ -5,7 +5,7 @@ It features an interactive **HTML5** game template that can be edited by **coder
 <br>
 
 **PLEASE READ**: <br>
-* If you have never heard of an **"idle  game,"** it is **strongly recommended**  that you watch [this overview](https://www.youtube.com/watch?v=IM6Gb10-DG4) of the genre in order to understand how to play.  This is because the gameplay & goals for **idle games** are **sigficantly different** than most other gaming genres.
+* If you have never heard of an **"idle  game,"** it is **strongly recommended**  that you watch [this overview](https://www.youtube.com/watch?v=IM6Gb10-DG4) of the genre in order to understand how to play.  This is because the gameplay & goals for **idle games** are **sigficantly different** than those of most other gaming genres.
 <img width="843" height="515" alt="Screenshot 2025-08-20 114834" src="https://github.com/user-attachments/assets/1fa862ba-de8b-480e-8715-3a73bf36416d" />
 <br><br>
 
