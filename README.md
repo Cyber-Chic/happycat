@@ -9,7 +9,7 @@
 
 *   **Educational Content:** Practice your **HTML5, CSS & JavaScript** skills while playing.
 *   **Idle Mechanics:** Progress and earn resources even when you're not actively playing.
-*   **Local Saving:** Your progress is saved directly on your computer, no internet connection required after initial download.
+*   **Local Saving:** Your progress is saved directly on your computer.
 *   **Simple Interface:** Easy-to-understand design.
 
 
@@ -34,11 +34,11 @@
 
 ## Technologies Used
 
-*   HTML5
-*   CSS
-*   JavaScript
-*   A.I.
-*   NotePad
+*   **HTML5**
+*   **CSS**
+*   **JavaScript**
+*   **A.I.**
+*   **NotePad**
 
 ## Contact
 
