@@ -47,4 +47,4 @@ For questions or feedback, please contact [Your Name/Email Address].
 # IMPORTANT!
 * **DISCLAIMER: ALL SALES ARE FINAL!  If Happy Cat does not run properly, please check your settings or try running your game in different browser!** <br><br>
 * **PRIVACY: This game utilizes local save functionality, meaning your progress is stored directly on your computer. If you delete the game files or the specific save file, your progress will be lost and cannot be recovered. Back up your save file periodically if your progress is critical!**<br><br>
-* **RESPONSIBILITY: You acknowledge that if you use any portion of this project that you are solely and personally responsible for your choices, actions and results! The choices you make and their outcomes are not the responsibility of the game developer, publisher, or platform!**
+* **RESPONSIBILITY: You acknowledge that if you use this project in any capacity, that you are SOLEY & LEGALLY responsible for your actions! Your actions are NOT the responsibility of the game developer, publisher, or platform!**
