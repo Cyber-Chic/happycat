@@ -9,19 +9,19 @@
 
 *   **Educational Content:** Practice your **HTML5, CSS & JavaScript** skills while playing.
 *   **Idle Mechanics:** Progress and earn resources even when you're not actively playing.
-*   **Local Saving:** Your progress is saved directly on your computer.
+*   **Local Saving:** Your progress can be saved directly to your computer.
 *   **Simple Interface:** Easy-to-understand design.
 
 
 ## How to Play
 
-1.  **Download:** Purchase Happy Cat from [my shop].<br><br><img width="353" height="299" alt="Screenshot 2025-08-20 125811" src="https://github.com/user-attachments/assets/c97159e4-5324-4b0d-b94d-eba549515562" />
+* **1.**  Purchase **Happy Cat** from [my shop](https://payhip.com/b/Ed2us) & download the **HTML** file.<br><br><img width="353" height="299" alt="Screenshot 2025-08-20 125811" src="https://github.com/user-attachments/assets/c97159e4-5324-4b0d-b94d-eba549515562" />
 
-2.  **Open:** Open file with notepad.<br><br><img width="1112" height="610" alt="Screenshot 2025-08-20 115850" src="https://github.com/user-attachments/assets/8486139d-a774-4bef-9fb1-a49629d10c6c" />
+* **2.**  Open your file with **Notepad**.<br><br><img width="1112" height="610" alt="Screenshot 2025-08-20 115850" src="https://github.com/user-attachments/assets/8486139d-a774-4bef-9fb1-a49629d10c6c" />
 
-3.  **Edit:** Revise the source code & save changes to customize your game!<br><br><img width="971" height="616" alt="Screenshot 2025-08-20 125528" src="https://github.com/user-attachments/assets/624ae79b-7c80-4dc8-b10d-0a5ba047d674" />
+* **3.** Edit the source code & **save changes** to customize your game!<br><br><img width="971" height="616" alt="Screenshot 2025-08-20 125528" src="https://github.com/user-attachments/assets/624ae79b-7c80-4dc8-b10d-0a5ba047d674" />
 
-4.  **PLAY!:** Open your customized game in Firefox to play!
+* **4.** Open your customized game in **Firefox** to play!
 <img width="1181" height="655" alt="Screenshot 2025-08-20 121546" src="https://github.com/user-attachments/assets/c444ab67-a86c-4c4a-b87b-d2699bd52e10" />
 
 ## Technologies Used
