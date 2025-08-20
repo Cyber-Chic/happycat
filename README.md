@@ -24,14 +24,6 @@
 4.  **PLAY!:** Open your customized game in Firefox to play!
 <img width="1181" height="655" alt="Screenshot 2025-08-20 121546" src="https://github.com/user-attachments/assets/c444ab67-a86c-4c4a-b87b-d2699bd52e10" />
 
-## Local Save Disclaimer
-
-**IMPORTANT!** 
-
-* **TROUBLE SHOOTING:** If **Happy Cat** does not run properly check your settings or try running your game in different browser.<br>
-* **STORAGE:** This game utilizes local save functionality, meaning your progress is stored directly on your computer. If you delete the game files or the specific save file, your progress will be lost and cannot be recovered. Back up your save file periodically if your progress is critical.
-
-
 ## Technologies Used
 
 *   **HTML5**
@@ -43,3 +35,11 @@
 ## Contact
 
 For questions or feedback, please contact [Your Name/Email Address].
+
+# Sponsors
+- Thank you for reading about my beginner coding project!😁
+- You can sponsor me if you like my work & want to show support.💖
+
+# IMPORTANT!
+* **HELP:** If **Happy Cat** does not run properly check your settings or try running your game in different browser.<br>
+* **PRIVACY:** This game utilizes local save functionality, meaning your progress is stored directly on your computer. If you delete the game files or the specific save file, your progress will be lost and cannot be recovered. Back up your save file periodically if your progress is critical.
