@@ -34,11 +34,7 @@ It features an interactive **HTML5** game template that can be edited by **coder
 *   **CSS**
 *   **JavaScript**
 *   **A.I.**
-*   **NotePad**
-
-## Contact
-
-For questions or feedback, please contact [Your Name/Email Address].
+*   **Notepad**
 
 # Sponsors
 - Thank you for reading about my beginner coding project!😁
