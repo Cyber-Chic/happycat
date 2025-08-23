@@ -1,7 +1,7 @@
-# Happy Cat - An Educational Idle Game <br> [For - Windows PC](https://payhip.com/b/Ed2us)
+# Happy Cat - An Educational Idle Game [DEMO]<br> [For - Windows PC](https://payhip.com/b/Ed2us)
 
 **Happy Cat** is a simple **idle game** for **desktop** that's designed to **level up your coding skills! 😎** <br><br>
-It features an interactive **HTML5** game template that can be edited by **coders of all levels.**  The official game demo has been released and is now available from [my shop!](https://payhip.com/b/Ed2us)<br>
+It features an interactive **HTML5** game template that can be edited by **coders of all levels.**  The **official game demo** has been released and is now available from [my shop!](https://payhip.com/b/Ed2us)<br>
 <br>
 
 **PLEASE READ**: <br>
@@ -41,6 +41,6 @@ It features an interactive **HTML5** game template that can be edited by **coder
 - You can sponsor me if you like my work & want to show support.💖
 
 # IMPORTANT!
-* **DISCLAIMER: ALL SALES ARE FINAL!  If Happy Cat does not run properly, please check your settings or try running your game in different browser!** <br><br>
-* **PRIVACY: This game utilizes local save functionality, meaning your progress is stored directly on your computer. If you delete the game files or the specific save file, your progress will be lost and cannot be recovered. Back up your save file periodically if your progress is critical!**<br><br>
+* **DISCLAIMER: If Happy Cat does not run properly, please check your settings or try running your game in different browser!** <br><br>
+*  **PRIVACY: This game utilizes local save functionality, meaning your progress is stored directly on your computer. If you delete the game files or the specific save file, your progress will be lost and cannot be recovered. Back up your save file periodically if your progress is critical!** <br><br>
 * **RESPONSIBILITY: You acknowledge that if you use this project in any capacity, that you are SOLELY & LEGALLY responsible for your actions! Your actions are NOT the responsibility of the game developer, publisher, or platform!**
