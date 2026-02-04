@@ -38,11 +38,12 @@ It features an interactive **HTML5** game template that can be edited by **coder
 *   **A.I.**
 *   **Notepad**
 
-# Sponsors
-- Thank you for reading about my beginner coding project!😁
-- You can sponsor me if you like my work & want to show support.💖
-
 # IMPORTANT!
 * **DISCLAIMER: If Happy Cat does not run properly, please check your settings or try running your game in different browser!** <br><br>
 *  **PRIVACY: This game utilizes local save functionality, meaning your progress is stored directly on your computer. If you delete the game files or the specific save file, your progress will be lost and cannot be recovered. Back up your save file periodically if your progress is critical!** <br><br>
 * **RESPONSIBILITY: You acknowledge that if you use this project in any capacity, that you are SOLELY & LEGALLY responsible for your actions! Your actions are NOT the responsibility of the game developer, publisher, or platform!**
+
+  # Sponsors
+> **SIGNAL NOTE:** This project is a digital subsystem of the [Moore Archive](https://emaze.me/tma). 
+> Sponsorships support my full creative ecosystem—from public-facing research to physical art drops.
+> [**SUPPORT THE JOURNEY**](https://www.paypal.com/donate/?hosted_button_id=CJVWS45KF46ZE) | **STATUS: 🟢 NOMINAL**
