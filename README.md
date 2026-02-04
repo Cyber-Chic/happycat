@@ -43,7 +43,19 @@ It features an interactive **HTML5** game template that can be edited by **coder
 *  **PRIVACY: This game utilizes local save functionality, meaning your progress is stored directly on your computer. If you delete the game files or the specific save file, your progress will be lost and cannot be recovered. Back up your save file periodically if your progress is critical!** <br><br>
 * **RESPONSIBILITY: You acknowledge that if you use this project in any capacity, that you are SOLELY & LEGALLY responsible for your actions! Your actions are NOT the responsibility of the game developer, publisher, or platform!**
 
-  # Sponsors
-> **SIGNAL NOTE:** This project is a digital subsystem of the [Moore Archive](https://emaze.me/tma). 
-> Sponsorships support my full creative ecosystem—from public-facing research to physical art drops.
-> [**SUPPORT THE JOURNEY**](https://www.paypal.com/donate/?hosted_button_id=CJVWS45KF46ZE) | **STATUS: 🟢 NOMINAL**
+# Sponsors
+### [ 🛰️ PROJECT SUBSYSTEM ]
+**Part of the [Moore Archive](https://emaze.me/tma) Creative Ecosystem.**  
+*Bridging the gap between digital code and physical reality.*
+
+**EXPLORE THE NETWORK:**
+*   **🔭 RESEARCH:** [NASA Exoplanet Watch Participation & Data](https://github.com/Cyber-Chic/nasa)
+*   **🧪 ARCHIVE:** [The Moore Archive | Physical Artifact Hunt](https://emaze.me/tma)
+*   **💻 CODE:** [View My Full Repository Catalog](https://github.com/Cyber-Chic)
+
+**[ ☕ MISSION SUSTENANCE ]**
+Sponsorships support my full creative ecosystem—from public-facing research and citizen science to the physical art drops of The Moore Archive.  
+[**➡️ SUPPORT THE JOURNEY VIA PAYPAL**](https://www.paypal.com/donate/?hosted_button_id=CJVWS45KF46ZE)
+
+---
+**ANGELA N. MOORE // SIGNAL STATUS: 🟢 NOMINAL**
