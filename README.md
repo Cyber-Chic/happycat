@@ -1,7 +1,7 @@
 #  😸 Happy Cat [DEMO] // THE MOORE SIGNAL
 
 **Happy Cat** is a simple **idle game** for **desktop** that's designed to **level up your coding skills! 😎** <br><br>
-It features an interactive **HTML5** game template that can be edited by **coders of all levels.**  The **official game demo** has been released and is now available from [my shop!](https://payhip.com/b/Ed2us)<br>
+It features an interactive **HTML5** game template that can be edited by **coders of all levels.**  The **official game demo** has been released and is now available from [here!](https://payhip.com/b/Ed2us)<br>
 <br>
 
 **PLEASE READ**: <br>
@@ -21,7 +21,7 @@ It features an interactive **HTML5** game template that can be edited by **coder
 
 ## How to Use
 
-* **1.**  Download **Happy Cat** from [my here](https://payhip.com/b/Ed2us) & download the **HTML** file.<br><br><img width="353" height="299" alt="Screenshot 2025-08-20 125811" src="https://github.com/user-attachments/assets/c97159e4-5324-4b0d-b94d-eba549515562" />
+* **1.**  Download **Happy Cat** from [ here](https://payhip.com/b/Ed2us).<br><br><img width="353" height="299" alt="Screenshot 2025-08-20 125811" src="https://github.com/user-attachments/assets/c97159e4-5324-4b0d-b94d-eba549515562" />
 
 * **2.**  Open your file with **Notepad**.<br><br><img width="1112" height="610" alt="Screenshot 2025-08-20 115850" src="https://github.com/user-attachments/assets/8486139d-a774-4bef-9fb1-a49629d10c6c" />
 
