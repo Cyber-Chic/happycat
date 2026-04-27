@@ -63,6 +63,6 @@ In the Archive, **Iterative Logic** is prioritized. Most coding tutorials are st
 **SIGNAL STATUS: 🟢 NOMINAL**  
 **PI: A N MOORE // (PENDING) THE MOORE SIGNAL ARCHIVE LLC**  
 
-> *“To architect a life where data has a soul, and science has a signature.”*
+> *“I want to live as though I traveled back in time... To this very moment.”*
 
 
